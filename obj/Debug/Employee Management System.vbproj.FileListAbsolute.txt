@@ -1,0 +1,20 @@
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\bin\Debug\Employee Management System.xml
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\obj\Debug\Employee_Management_System.Resources.resources
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\obj\Debug\Employee Management System.vbproj.GenerateResource.Cache
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\obj\Debug\Employee Management System.xml
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Projects\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\obj\Debug\Employee Management System.xml
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\bin\Debug\Employee Management System.xml
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\obj\Debug\Employee_Management_System.Dashboard.resources
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\obj\Debug\Employee_Management_System.Resources.resources
+C:\Users\sergio Van Aardt\Documents\Visual Studio 2012\Employee Management System\obj\Debug\Employee Management System.vbproj.GenerateResource.Cache
